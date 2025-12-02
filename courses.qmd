@@ -1,0 +1,13 @@
+---
+title: "Courses"
+---
+
+## Current Courses
+
+-   [STAT545: Exploratory Data Analysis](https://ubc-stat.github.io/STAT545.github.io/)
+
+-   [STAT551: Statistical Consulting](https://www.stat.ubc.ca/sites/default/files/course_outlines/stat551-2025.pdf)
+
+-   
+
+## Past Courses

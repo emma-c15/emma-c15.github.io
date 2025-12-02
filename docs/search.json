@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Emma Collins",
+    "section": "",
+    "text": "Human Resources Data Analyst\nPublic Service and Procurement Canada\nGovernment of Canada\nGraduate Student in Statistics\nUniversity of British Columbia"
+  },
+  {
+    "objectID": "index.html#hello",
+    "href": "index.html#hello",
+    "title": "Emma Collins",
+    "section": "",
+    "text": "My name is Emma\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "courses.html",
+    "href": "courses.html",
+    "title": "Courses",
+    "section": "",
+    "text": "STAT545: Exploratory Data Analysis\nSTAT551: Statistical Consulting"
+  },
+  {
+    "objectID": "courses.html#current-courses",
+    "href": "courses.html#current-courses",
+    "title": "Courses",
+    "section": "",
+    "text": "STAT545: Exploratory Data Analysis\nSTAT551: Statistical Consulting"
+  },
+  {
+    "objectID": "courses.html#past-courses",
+    "href": "courses.html#past-courses",
+    "title": "Courses",
+    "section": "Past Courses",
+    "text": "Past Courses"
+  }
+]

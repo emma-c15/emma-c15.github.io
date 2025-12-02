@@ -3,12 +3,12 @@ project:
   output-dir: docs
 
 website:
-  title: "emma-c15.github.io"
+  title: "Emma Collins"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - courses.qmd
 
 format:
   html:

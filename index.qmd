@@ -1,11 +1,20 @@
 ---
-title: "emma-c15.github.io"
+title: "Emma Collins"
+about: 
+  template: jolla
+  image: images/me.jpg
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/emma-c15
 ---
 
-This is a Quarto website.
+**Human Resources Data Analyst**
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Public Service and Procurement Canada
 
-```{r}
-1 + 1
-```
+Government of Canada
+
+*Graduate Student in Statistics*
+
+University of British Columbia
